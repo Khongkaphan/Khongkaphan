@@ -35,10 +35,3 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khongkaphan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khongkaphan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
-</p>
